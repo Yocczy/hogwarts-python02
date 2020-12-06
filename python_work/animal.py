@@ -61,8 +61,6 @@ if __name__ == '__main__':
         with open('animal.yml', encoding='utf-8') as f:
             datas = yaml.safe_load(f)
         return datas
-
-
     print(get_data())
 
     m = yaml.safe_dump({'maomao': {'name': '猫猫', 'color': '白色', 'age': '3', 'gender': 'female', 'hair': 'short'}})
