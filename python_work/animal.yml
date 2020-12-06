@@ -1,0 +1,13 @@
+maomao:
+  name: '猫猫'
+  color: '白色'
+  age: '3'
+  gender: 'female'
+  hair: 'short'
+
+gougou:
+  name: '狗狗'
+  color: '黑色'
+  age: '5'
+  gender: 'male'
+  hair: 'long'
